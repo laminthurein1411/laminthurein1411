@@ -1,9 +1,12 @@
-## Hi there 👋
+## My Current Listening 
+
+<img align="center" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=cdl24hkuj7v7dj6n9l3lyi3j1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true"/>
+
 
 <!--
 **laminthurein1411/laminthurein1411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+"Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
