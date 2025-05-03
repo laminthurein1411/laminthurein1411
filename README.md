@@ -42,4 +42,7 @@
  Books I'm currently reading
 
 `<!-- GOODREADS-LIST:START -->
+- [Foundations of Drawing: A Practical Guide to Art History, Tools, Techniques, and Styles](https://www.goodreads.com/review/show/5000004799?utm_medium=api&utm_source=rss) by Al Gury (⭐️3.95)
+- [Keys to Drawing](https://www.goodreads.com/review/show/5000002662?utm_medium=api&utm_source=rss) by Bert Dodson (⭐️4.32)
+- [Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)](https://www.goodreads.com/review/show/4998251244?utm_medium=api&utm_source=rss) by Benjamin Alire Sáenz (⭐️4.38)
 <!-- GOODREADS-LIST:END -->`
