@@ -17,6 +17,6 @@ jobs:
         with:
           goodreads_user_id: "92063322"
           shelf: "currently-reading"
-          max_books_count: "3"
-          sort_by_fields: ">user_date_added"
+          max_books_count: "4"
+          sort_by_fields: "<user_date_added"
        
