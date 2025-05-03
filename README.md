@@ -40,5 +40,6 @@
 <a href="https://twitter.com/laminthurein144" target="_blank"><img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&logoColor=white" alt="Twitter"></a>
 
  Books I'm currently reading
-<!-- GOODREADS-LIST:START -->
-<!-- GOODREADS-LIST:END -->
+
+`<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->`
