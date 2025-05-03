@@ -39,8 +39,6 @@
 <a href="https://open.spotify.com/user/cdl24hkuj7v7dj6n9l3lyi3j1" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://twitter.com/laminthurein144" target="_blank"><img src="https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&logoColor=white" alt="Twitter"></a>
 
-```markdown
-### Books I'm currently reading
+ Books I'm currently reading
 <!-- GOODREADS-LIST:START -->
 <!-- GOODREADS-LIST:END -->
-```
