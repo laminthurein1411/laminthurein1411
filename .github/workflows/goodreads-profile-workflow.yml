@@ -2,7 +2,7 @@ name: Latest book list from a goodreads
 on:
   schedule: # Run workflow automatically
     # This will make it run every hour
-    - cron: "0 * * * *"
+    - cron: "0 8 * * 1"
 
     # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 
@@ -16,7 +16,7 @@ jobs:
       - uses: zwacky/goodreads-profile-workflow@main
         with:
           goodreads_user_id: "92063322"
-          shelf: "currently-reading"
+          shelf: "read"
           max_books_count: "4"
-          sort_by_fields: "<user_date_added"
+          sort_by_fields: ">user_read_at"
        
