@@ -25,8 +25,8 @@ jobs:
           statsfm_username: 'cdl24hkuj7v7dj6n9l3lyi3j1' # Replace with your actual username
 
           # OPTIONAL: Customize the display (see Inputs below)
-          display_limit: '6'        # Number of albums to show (max 50)
-          time_range: 'weeks'       # Data period: weeks, months, lifetime
+          display_limit: '10'        # Number of albums to show (max 50)
+          time_range: 'months'       # Data period: weeks, months, lifetime
           show_rank: 'true'         # Include rank number in tooltip: true, false
           show_duration: 'true'     # Include playtime in tooltip: true, false
           readme_path: 'README.md'  # Path to your README file
