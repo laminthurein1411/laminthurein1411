@@ -47,7 +47,7 @@
 <!-- GOODREADS-LIST:START -->
 - [At Attention (Out of Uniform, #2)](https://www.goodreads.com/review/show/6697021339?utm_medium=api&utm_source=rss) by Annabeth Albert (⭐️3.98)
 - [Kage Unmasked (Kage Trilogy, #3)](https://www.goodreads.com/review/show/6590045029?utm_medium=api&utm_source=rss) by Maris Black (⭐️4.04)
-- [The Backup Boyfriend (The Boyfriend Chronicles, #1)](https://www.goodreads.com/review/show/6590040769?utm_medium=api&utm_source=rss) by River Jaymes (⭐️3.93)
+- [The Backup Boyfriend (The Boyfriend Chronicles, #1)](https://www.goodreads.com/review/show/6590040769?utm_medium=api&utm_source=rss) by River Jaymes (⭐️3.92)
 - [Gay for the Stay (Gay for the Stay #1)](https://www.goodreads.com/review/show/6590039011?utm_medium=api&utm_source=rss) by Seth King (⭐️3.68)
 <!-- GOODREADS-LIST:END -->
 
