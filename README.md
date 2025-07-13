@@ -40,6 +40,8 @@
 #
 ### Today's Weather Forecast
 
+## Today's Weather
+<div align="center">
 
 
 `Yangon, Myanmar - 13/07/2025`
@@ -47,6 +49,8 @@
 <img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
 
 Heavy rain
+
+</div>
 
 
 <table>
@@ -64,7 +68,7 @@ Heavy rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.5 °C</td><td>24.7 °C</td><td>24.7 °C</td><td>24.7 °C</td><td>24.6 °C</td><td>24.8 °C</td><td>25.2 °C</td><td>25.7 °C</td><td>26.9 °C</td><td>29 °C</td><td>29.9 °C</td><td>30.1 °C</td><td>30.1 °C</td><td>30.3 °C</td><td>30.1 °C</td><td>29.4 °C</td><td>29.1 °C</td><td>28.3 °C</td><td>26.8 °C</td><td>27.3 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.2 °C</td><td>26 °C</td>
+        <td>24.5 °C</td><td>24.7 °C</td><td>24.7 °C</td><td>24.7 °C</td><td>24.6 °C</td><td>24.8 °C</td><td>25.2 °C</td><td>25.7 °C</td><td>26.9 °C</td><td>29 °C</td><td>29.9 °C</td><td>30.1 °C</td><td>30.1 °C</td><td>30.3 °C</td><td>30.1 °C</td><td>29.4 °C</td><td>29.1 °C</td><td>28.3 °C</td><td>26.8 °C</td><td>27.2 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26.2 °C</td><td>26 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -73,10 +77,34 @@ Heavy rain
 </table>
 
 
-<div align="right">
+## Weather For Next 3 days
 
-*Updated at: 2025-07-13T12:56:11Z
-</div>
+
+<table>
+    <tr>
+        <th>Date</th>
+        <td>13/07/2025</td><td>14/07/2025</td><td>15/07/2025</td>
+    </tr>
+    <tr>
+        <th>Weather</th>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+    </tr>
+    <tr>
+        <th>Condition</th>
+        <td width="200px">Heavy rain</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td>
+    </tr>
+    <tr>
+        <th>Temperature</th>
+        <td>24.5 -  30.3 °C</td><td>25.5 -  31.1 °C</td><td>25.9 -  31 °C</td>
+    </tr>
+    <tr>
+        <th>Wind</th>
+        <td>21.6 kph</td><td>15.5 kph</td><td>17.3 kph</td>
+    </tr>
+</table>
+
+
+*Updated at: 2025-07-13T13:26:12Z*
 
 
 #
