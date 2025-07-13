@@ -19,4 +19,5 @@ jobs:
           shelf: "read"
           max_books_count: "4"
           sort_by_fields: ">user_read_at"
+          readme_file_path: ".tmp/goodreads.md.tpl"
        
