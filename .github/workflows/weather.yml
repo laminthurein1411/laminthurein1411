@@ -18,7 +18,7 @@ jobs:
       - name: Prepare
         run: |
           export PATH=$PATH:$(go env GOPATH)/bin
-          mkdir .tmp
+          
       - name: Collect weathers
         run: |
           go install github.com/huantt/weather-forecast@latest
