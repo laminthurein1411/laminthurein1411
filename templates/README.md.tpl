@@ -38,7 +38,6 @@
 </p>
 
 #
-### Today's Weather Forecast
 
 {{ template "weathers.md.tpl" }}
 
