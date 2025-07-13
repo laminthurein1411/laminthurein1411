@@ -1,3 +1,5 @@
+## Today's Weather
+<div align="center">
 {{ with $todayWeather := index .Weathers 0 }}
 
 `{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`
@@ -6,11 +8,14 @@
 
 {{ $todayWeather.Condition }}
 
+</div>
+
 {{template "hourly-table" $todayWeather.HourlyWeathers}}
 
 {{- end }}
 
-<div align="right">
+## Weather For Next {{ len .Weathers }} days
 
-*Updated at: {{formatTime .UpdatedAt}}
-</div>
+{{template "daily-table" .Weathers}}
+
+*Updated at: {{formatTime .UpdatedAt}}*
