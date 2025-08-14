@@ -17,6 +17,12 @@
 </p>
 
 #
+### Recent films I have watched 
+<p align="center">
+  <img align="center" src="https://github.com/laminthurein1411/laminthurein1411/blob/main/film.jpg"/>
+</p>
+
+#
 ### My Letterboxd Graph
 <p align="center">
   <a href="https://letterboxd.com/laminthurein/" target="_blank">
