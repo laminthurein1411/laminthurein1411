@@ -1,0 +1,56 @@
+name: Generate, Commit, and Publish Screenshot
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Run daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  screenshot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "lts/*"
+
+      - name: Install dependencies
+        run: npm install puppeteer
+
+      - name: Capture screenshot using Puppeteer
+        run: |
+          echo "const puppeteer = require('puppeteer');
+          (async () => {
+            const browser = await puppeteer.launch({
+              args: ['--no-sandbox', '--disable-setuid-sandbox']
+            });
+            const page = await browser.newPage();
+            await page.setViewport({ width: 500, height: 800 });
+            await page.goto('https://lb-embed-content.bokonon.dev?username=laminthurein', { waitUntil: 'networkidle0' });
+            await page.screenshot({ path: 'film.jpg', type: 'jpeg', quality: 100 });
+            await browser.close();
+          })();" > screenshot.js
+          node screenshot.js
+
+      - name: Update index.html date
+        run: |
+          # Get RFC 1123 UTC date
+          DATE="$(date -u +"%a, %d %b %Y %H:%M:%S GMT")"
+          # Use sed for in-place replacement of the date in index.html
+          sed -i -E "s|Last updated: .* GMT|Last updated: $DATE|g" index.html
+
+      - name: Configure git
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+      - name: Commit and push screenshot and index.html
+        run: |
+          git add film.jpg index.html
+          git commit -m "Update screenshot and timestamp on $(date -u '+%Y-%m-%d')" || echo "No changes to commit"
+          git push
+
+      - name: Clean up
+        run: rm -f screenshot.js
