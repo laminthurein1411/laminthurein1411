@@ -34,21 +34,15 @@ jobs:
           })();" > screenshot.js
           node screenshot.js
 
-      - name: Update index.html date
-        run: |
-          # Get RFC 1123 UTC date
-          DATE="$(date -u +"%a, %d %b %Y %H:%M:%S GMT")"
-          # Use sed for in-place replacement of the date in index.html
-          sed -i -E "s|Last updated: .* GMT|Last updated: $DATE|g" index.html
-
+     
       - name: Configure git
         run: |
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
 
-      - name: Commit and push screenshot and index.html
+      - name: Commit and push screenshot
         run: |
-          git add film.jpg index.html
+          git add film.jpg 
           git commit -m "Update screenshot and timestamp on $(date -u '+%Y-%m-%d')" || echo "No changes to commit"
           git push
 
