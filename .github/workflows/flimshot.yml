@@ -2,7 +2,7 @@ name: letterboxd review Screenshot
 
 on:
   schedule:
-    - cron: "* 8 * * *"  # Run daily at midnight UTC
+    - cron: "0 */2 * * *"  # Run every 2 hours 
   workflow_dispatch:
 
 jobs:
