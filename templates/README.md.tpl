@@ -1,7 +1,7 @@
 #
 ### Currently playing on Spotify 
 <p align="center">
-  <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=cdl24hkuj7v7dj6n9l3lyi3j1&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true"/>
+  <img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=cdl24hkuj7v7dj6n9l3lyi3j1&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=false&mode=light"/>
 </p>
 
 #
