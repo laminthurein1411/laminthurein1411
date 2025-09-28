@@ -18,19 +18,19 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/266.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/263.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/386.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/293.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/293.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/266.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/293.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/356.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy light drizzle</td><td width="200px">Light rain shower</td><td width="200px">Light drizzle</td><td width="200px">Light rain shower</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Light drizzle</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy light drizzle</td><td width="200px">Patchy light rain in area with thunder</td><td width="200px">Patchy light rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Patchy light rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light drizzle</td><td width="200px">Light rain shower</td><td width="200px">Light drizzle</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy light rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Clear </td><td width="200px">Moderate or heavy rain shower</td><td width="200px">Light rain shower</td><td width="200px">Mist</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.7 °C</td><td>23.5 °C</td><td>23.2 °C</td><td>23.3 °C</td><td>23.2 °C</td><td>23.4 °C</td><td>23.7 °C</td><td>24.4 °C</td><td>25 °C</td><td>26.6 °C</td><td>28.1 °C</td><td>29.3 °C</td><td>29.8 °C</td><td>29.9 °C</td><td>30.3 °C</td><td>30.1 °C</td><td>29.9 °C</td><td>28.4 °C</td><td>26.4 °C</td><td>25.5 °C</td><td>25.2 °C</td><td>25.1 °C</td><td>25 °C</td><td>24.8 °C</td>
+        <td>23.9 °C</td><td>23.7 °C</td><td>23.5 °C</td><td>23.5 °C</td><td>23.4 °C</td><td>23.5 °C</td><td>23.8 °C</td><td>24.4 °C</td><td>25.7 °C</td><td>26.1 °C</td><td>26.2 °C</td><td>28.8 °C</td><td>29.9 °C</td><td>30.4 °C</td><td>30.9 °C</td><td>30.8 °C</td><td>30.3 °C</td><td>28.7 °C</td><td>26.8 °C</td><td>26.1 °C</td><td>25.8 °C</td><td>25.1 °C</td><td>24.4 °C</td><td>24.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>3.6 kph</td><td>3.2 kph</td><td>4 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>1.4 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>3.2 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>1.4 kph</td><td>1.8 kph</td>
+        <td>1.1 kph</td><td>0.7 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>0.4 kph</td><td>1.8 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>1.8 kph</td><td>1.4 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>4 kph</td><td>5 kph</td><td>5.4 kph</td><td>5 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
@@ -45,21 +45,21 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td>
+        <td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.2 -  30.3 °C</td><td>23.6 -  31.9 °C</td><td>24 -  26.9 °C</td>
+        <td>23.4 -  30.9 °C</td><td>23.6 -  32.1 °C</td><td>23.8 -  27.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>7.2 kph</td><td>8.3 kph</td>
+        <td>5.4 kph</td><td>9.7 kph</td><td>10.1 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-09-27T22:12:29Z*
+*Updated at: 2025-09-28T01:14:51Z*
