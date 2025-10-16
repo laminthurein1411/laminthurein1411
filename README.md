@@ -77,7 +77,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>1.8 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>5 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>4 kph</td><td>6.1 kph</td><td>5.8 kph</td>
+        <td>1.8 kph</td><td>2.2 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>5 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>4 kph</td><td>6.1 kph</td><td>5.8 kph</td>
     </tr>
 </table>
 
@@ -109,7 +109,7 @@ Moderate rain
 </table>
 
 
-*Updated at: 2025-10-16T20:16:51Z*
+*Updated at: 2025-10-16T22:11:40Z*
 
 
 #
