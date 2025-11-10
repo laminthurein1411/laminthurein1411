@@ -77,7 +77,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>5.8 kph</td><td>4 kph</td><td>4.7 kph</td><td>4 kph</td><td>4.7 kph</td><td>4 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>5 kph</td><td>4.3 kph</td><td>2.5 kph</td><td>3.2 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>4.7 kph</td>
+        <td>6.1 kph</td><td>5.8 kph</td><td>4 kph</td><td>4.7 kph</td><td>4 kph</td><td>4.7 kph</td><td>4 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>2.9 kph</td><td>1.1 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>5 kph</td><td>4.3 kph</td><td>2.5 kph</td><td>3.2 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>4.7 kph</td>
     </tr>
 </table>
 
@@ -109,7 +109,7 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2025-11-10T06:26:01Z*
+*Updated at: 2025-11-10T08:23:21Z*
 
 
 #
@@ -120,10 +120,10 @@ Patchy rain nearby
 
 ### Books I've read 📚 
 
+- [No Longer Human](https://www.goodreads.com/review/show/8056989426?utm_medium=api&utm_source=rss) by Osamu Dazai (⭐️3.98)
 - [Of Mice and Men](https://www.goodreads.com/review/show/6567069244?utm_medium=api&utm_source=rss) by John Steinbeck (⭐️3.89)
 - [Heaven](https://www.goodreads.com/review/show/6452394435?utm_medium=api&utm_source=rss) by Mieko Kawakami (⭐️3.8)
 - [Heartstopper: Volume Two](https://www.goodreads.com/review/show/4890630871?utm_medium=api&utm_source=rss) by Alice Oseman (⭐️4.57)
-- [White Nights](https://www.goodreads.com/review/show/7725841553?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️4.14)
 
 
 
