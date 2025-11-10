@@ -30,7 +30,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>5.8 kph</td><td>4 kph</td><td>4.7 kph</td><td>4 kph</td><td>4.7 kph</td><td>4 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>2.9 kph</td><td>1.1 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>5 kph</td><td>4.3 kph</td><td>2.5 kph</td><td>3.2 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>4.7 kph</td>
+        <td>6.1 kph</td><td>5.8 kph</td><td>4 kph</td><td>4.7 kph</td><td>4 kph</td><td>4.7 kph</td><td>4 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>1.8 kph</td><td>2.9 kph</td><td>1.1 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>5 kph</td><td>4.3 kph</td><td>2.5 kph</td><td>3.2 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>4.7 kph</td>
     </tr>
 </table>
 
@@ -62,4 +62,4 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2025-11-10T01:16:06Z*
+*Updated at: 2025-11-10T03:16:02Z*
