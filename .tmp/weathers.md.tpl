@@ -2,7 +2,7 @@
 <div align="center">
 
 
-`Pyay, Myanmar - 03/12/2025`
+`Pyay, Myanmar - 04/12/2025`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
@@ -26,11 +26,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>17.2 °C</td><td>16.8 °C</td><td>16.3 °C</td><td>15.9 °C</td><td>15.6 °C</td><td>15.3 °C</td><td>15.1 °C</td><td>17.1 °C</td><td>20.7 °C</td><td>23.1 °C</td><td>25.2 °C</td><td>26.6 °C</td><td>27.8 °C</td><td>28.5 °C</td><td>28.8 °C</td><td>28.6 °C</td><td>26.9 °C</td><td>22.6 °C</td><td>21.2 °C</td><td>20.2 °C</td><td>19.3 °C</td><td>18.8 °C</td><td>18.4 °C</td><td>18.1 °C</td>
+        <td>17.7 °C</td><td>17.5 °C</td><td>17.2 °C</td><td>16.9 °C</td><td>16.6 °C</td><td>16.4 °C</td><td>16.3 °C</td><td>18.3 °C</td><td>21.7 °C</td><td>24.1 °C</td><td>26.1 °C</td><td>27.7 °C</td><td>28.8 °C</td><td>29.5 °C</td><td>29.7 °C</td><td>29.5 °C</td><td>28.5 °C</td><td>24.2 °C</td><td>23 °C</td><td>22.4 °C</td><td>21.7 °C</td><td>21.1 °C</td><td>20.6 °C</td><td>20.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5.4 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>6.1 kph</td><td>5 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>5 kph</td><td>6.1 kph</td>
+        <td>6.1 kph</td><td>6.8 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9 kph</td><td>7.6 kph</td><td>5.8 kph</td><td>5 kph</td><td>5 kph</td><td>3.2 kph</td><td>0.7 kph</td><td>2.5 kph</td><td>4 kph</td><td>5 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>5 kph</td>
     </tr>
 </table>
 
@@ -41,7 +41,7 @@ Sunny
 <table>
     <tr>
         <th>Date</th>
-        <td>03/12/2025</td><td>04/12/2025</td><td>05/12/2025</td>
+        <td>04/12/2025</td><td>05/12/2025</td><td>06/12/2025</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -53,13 +53,13 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>15.1 -  28.8 °C</td><td>16.3 -  29.7 °C</td><td>18.2 -  30.4 °C</td>
+        <td>16.3 -  29.7 °C</td><td>18.2 -  30.4 °C</td><td>18.7 -  30.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.8 kph</td><td>9.4 kph</td><td>13 kph</td>
+        <td>9.4 kph</td><td>13 kph</td><td>7.2 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-12-03T16:22:59Z*
+*Updated at: 2025-12-03T18:26:06Z*
