@@ -77,7 +77,7 @@ Sunny
     </tr>
     <tr>
         <th>Wind</th>
-        <td>1.4 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>4 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>4 kph</td><td>3.6 kph</td><td>4 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>4 kph</td><td>2.9 kph</td><td>0.7 kph</td><td>2.2 kph</td><td>4.3 kph</td><td>4 kph</td><td>2.5 kph</td><td>3.2 kph</td>
+        <td>1.4 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>4 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>4 kph</td><td>1.8 kph</td><td>4 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>4 kph</td><td>2.9 kph</td><td>0.7 kph</td><td>2.2 kph</td><td>4.3 kph</td><td>4 kph</td><td>2.5 kph</td><td>3.2 kph</td>
     </tr>
 </table>
 
@@ -109,7 +109,7 @@ Sunny
 </table>
 
 
-*Updated at: 2025-12-24T06:27:24Z*
+*Updated at: 2025-12-24T08:23:36Z*
 
 
 #
@@ -122,7 +122,7 @@ Sunny
 
 - [Wuthering Heights](https://www.goodreads.com/review/show/2852886409?utm_medium=api&utm_source=rss) by Emily Brontë (⭐️4.05)
 - [Animal Farm](https://www.goodreads.com/review/show/8160305357?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.09)
-- [Poetry On Ice (Totally Pucked, #1)](https://www.goodreads.com/review/show/8118402901?utm_medium=api&utm_source=rss) by Jesse H. Reign (⭐️4.05)
+- [Poetry On Ice (Totally Pucked, #1)](https://www.goodreads.com/review/show/8118402901?utm_medium=api&utm_source=rss) by Jesse H. Reign (⭐️4.04)
 - [Jacked (Gymbos #1)](https://www.goodreads.com/review/show/8147090612?utm_medium=api&utm_source=rss) by K.M. Neuhold (⭐️4.02)
 
 
