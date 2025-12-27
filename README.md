@@ -109,7 +109,7 @@ Sunny
 </table>
 
 
-*Updated at: 2025-12-27T06:24:35Z*
+*Updated at: 2025-12-27T08:21:28Z*
 
 
 #
@@ -120,10 +120,10 @@ Sunny
 
 ### Books I've read 📚 
 
+- [Martyr!](https://www.goodreads.com/review/show/7637644984?utm_medium=api&utm_source=rss) by Kaveh Akbar (⭐️4.17)
+- [Stoner](https://www.goodreads.com/review/show/7113490333?utm_medium=api&utm_source=rss) by John  Williams (⭐️4.36)
 - [Wuthering Heights](https://www.goodreads.com/review/show/2852886409?utm_medium=api&utm_source=rss) by Emily Brontë (⭐️4.05)
 - [Animal Farm](https://www.goodreads.com/review/show/8160305357?utm_medium=api&utm_source=rss) by George Orwell (⭐️4.09)
-- [Poetry On Ice (Totally Pucked, #1)](https://www.goodreads.com/review/show/8118402901?utm_medium=api&utm_source=rss) by Jesse H. Reign (⭐️4.04)
-- [Jacked (Gymbos #1)](https://www.goodreads.com/review/show/8147090612?utm_medium=api&utm_source=rss) by K.M. Neuhold (⭐️4.02)
 
 
 
