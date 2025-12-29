@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 
 URL = os.getenv("PROFILE_URL", "https://www.goodreads.com/user/show/99699399-cat-the-bookworm-semi-hiatus-ish")
 HEADERS = {"User-Agent": "Mozilla/5.0"}
-README_PATH = "README.md"
+README_PATH = ".tmp/Goodreads Quote.md.tpl"
 START_MARKER = "<!-- QUOTE_START -->"
 END_MARKER = "<!-- QUOTE_END -->"
 
