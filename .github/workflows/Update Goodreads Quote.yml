@@ -22,7 +22,7 @@ jobs:
         
       - name: Update quote
         env:
-          PROFILE_URL: "https://www.goodreads.com/user/show/YOUR_USER_ID"
+          PROFILE_URL: "https://www.goodreads.com/user/show/99699399-cat-the-bookworm-semi-hiatus-ish"
         run: python scripts/fetch_goodreads_quote.py
         
       - name: Commit changes
