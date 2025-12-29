@@ -1,2 +1,0 @@
-<!-- QUOTE_START -->
-<!-- QUOTE_END -->
