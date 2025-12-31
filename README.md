@@ -49,7 +49,7 @@
 <div align="center">
 
 
-`Pyay, Myanmar - 31/12/2025`
+`Pyay, Myanmar - 01/01/2026`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
@@ -73,11 +73,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>17.1 °C</td><td>16.6 °C</td><td>16.1 °C</td><td>15.6 °C</td><td>15.2 °C</td><td>14.8 °C</td><td>14.5 °C</td><td>16.4 °C</td><td>20.4 °C</td><td>23.5 °C</td><td>26.2 °C</td><td>28.4 °C</td><td>29.9 °C</td><td>31 °C</td><td>31.4 °C</td><td>31.1 °C</td><td>30.1 °C</td><td>25.1 °C</td><td>22.7 °C</td><td>21.6 °C</td><td>20.6 °C</td><td>19.4 °C</td><td>18.5 °C</td><td>17.8 °C</td>
+        <td>17.1 °C</td><td>16.8 °C</td><td>16.3 °C</td><td>15.7 °C</td><td>15.3 °C</td><td>15 °C</td><td>14.6 °C</td><td>15.7 °C</td><td>19.9 °C</td><td>23.1 °C</td><td>25.7 °C</td><td>27.8 °C</td><td>29.7 °C</td><td>31.1 °C</td><td>31.3 °C</td><td>31 °C</td><td>30.1 °C</td><td>24.7 °C</td><td>22.7 °C</td><td>21.9 °C</td><td>20.7 °C</td><td>19.5 °C</td><td>18.6 °C</td><td>18 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>1.4 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>1.4 kph</td><td>1.8 kph</td><td>0.7 kph</td><td>0.4 kph</td><td>1.8 kph</td><td>1.8 kph</td><td>1.4 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>4 kph</td><td>3.2 kph</td><td>5.4 kph</td><td>5 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>2.2 kph</td>
+        <td>2.2 kph</td><td>5 kph</td><td>5.4 kph</td><td>5 kph</td><td>5.4 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>5.4 kph</td><td>1.8 kph</td><td>1.1 kph</td><td>2.5 kph</td><td>3.2 kph</td><td>2.9 kph</td><td>4 kph</td><td>4.7 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>3.2 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
@@ -88,7 +88,7 @@ Sunny
 <table>
     <tr>
         <th>Date</th>
-        <td>31/12/2025</td><td>01/01/2026</td><td>02/01/2026</td>
+        <td>01/01/2026</td><td>02/01/2026</td><td>03/01/2026</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -100,16 +100,16 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>14.5 -  31.4 °C</td><td>14.6 -  31.3 °C</td><td>14.7 -  31.5 °C</td>
+        <td>14.6 -  31.3 °C</td><td>14.7 -  31.5 °C</td><td>15.4 -  31.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5.4 kph</td><td>8.6 kph</td><td>8.3 kph</td>
+        <td>8.6 kph</td><td>8.3 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-12-31T16:20:43Z*
+*Updated at: 2025-12-31T18:24:12Z*
 
 
 #
