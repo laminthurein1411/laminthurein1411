@@ -77,7 +77,7 @@ Sunny
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4 kph</td>
+        <td>5 kph</td><td>3.6 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>4.3 kph</td><td>1.4 kph</td><td>3.2 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4 kph</td>
     </tr>
 </table>
 
@@ -109,7 +109,7 @@ Sunny
 </table>
 
 
-*Updated at: 2026-01-02T06:27:28Z*
+*Updated at: 2026-01-02T08:23:25Z*
 
 
 #
@@ -121,10 +121,10 @@ Sunny
 
 ### Books I've read 📚 
 
+- [Life Lessons (Life Lessons, #1)](https://www.goodreads.com/review/show/8193105243?utm_medium=api&utm_source=rss) by Kaje Harper (⭐️3.88)
 - [Bobok](https://www.goodreads.com/review/show/8197781279?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky (⭐️3.28)
 - [Goodnight (Rebel Sky Ranch, #1)](https://www.goodreads.com/review/show/8183826320?utm_medium=api&utm_source=rss) by Kelly  Fox (⭐️4.18)
-- [Time to Shine](https://www.goodreads.com/review/show/8197741720?utm_medium=api&utm_source=rss) by Rachel  Reid (⭐️3.97)
-- [The Happy List (Better With You, #1)](https://www.goodreads.com/review/show/8183485842?utm_medium=api&utm_source=rss) by Briar Prescott (⭐️4)
+- [Time to Shine](https://www.goodreads.com/review/show/8197741720?utm_medium=api&utm_source=rss) by Rachel  Reid (⭐️3.96)
 
 
 
