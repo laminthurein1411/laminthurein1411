@@ -73,11 +73,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21 °C</td><td>20.4 °C</td><td>19.8 °C</td><td>19.2 °C</td><td>18.6 °C</td><td>18.2 °C</td><td>17.8 °C</td><td>19.8 °C</td><td>23.5 °C</td><td>26.7 °C</td><td>29.5 °C</td><td>31.9 °C</td><td>33.4 °C</td><td>34.2 °C</td><td>34.6 °C</td><td>34.6 °C</td><td>34 °C</td><td>31.8 °C</td><td>27.6 °C</td><td>26.5 °C</td><td>24.9 °C</td><td>23 °C</td><td>22 °C</td><td>21.4 °C</td>
+        <td>21.3 °C</td><td>20.6 °C</td><td>20 °C</td><td>19.5 °C</td><td>19 °C</td><td>18.7 °C</td><td>18.3 °C</td><td>20.3 °C</td><td>24 °C</td><td>27.2 °C</td><td>30.1 °C</td><td>32.3 °C</td><td>34.1 °C</td><td>34.7 °C</td><td>35 °C</td><td>35.1 °C</td><td>34.6 °C</td><td>32.3 °C</td><td>28 °C</td><td>26.5 °C</td><td>24.4 °C</td><td>23 °C</td><td>22.1 °C</td><td>21.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>3.6 kph</td><td>2.2 kph</td><td>1.4 kph</td><td>3.6 kph</td><td>4 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>3.2 kph</td><td>1.8 kph</td><td>1.1 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>1.8 kph</td><td>3.2 kph</td><td>5.4 kph</td><td>7.9 kph</td><td>9.7 kph</td><td>6.8 kph</td><td>1.8 kph</td>
+        <td>1.4 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>3.2 kph</td><td>4 kph</td><td>4 kph</td><td>4 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>2.9 kph</td><td>1.1 kph</td><td>4.3 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4 kph</td><td>4.3 kph</td><td>7.9 kph</td><td>10.4 kph</td><td>9 kph</td><td>6.1 kph</td><td>2.2 kph</td>
     </tr>
 </table>
 
@@ -100,16 +100,16 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>17.8 -  34.6 °C</td><td>17.5 -  35.2 °C</td><td>16.8 -  35.9 °C</td>
+        <td>18.3 -  35.1 °C</td><td>17.6 -  35.3 °C</td><td>16.8 -  36.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9.7 kph</td><td>14.4 kph</td><td>16.6 kph</td>
+        <td>10.4 kph</td><td>14.8 kph</td><td>15.8 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2026-02-07T06:36:14Z*
+*Updated at: 2026-02-07T08:25:33Z*
 
 
 #
@@ -124,7 +124,7 @@ Sunny
 - [The Count of Monte Cristo](https://www.goodreads.com/review/show/8160240805?utm_medium=api&utm_source=rss) by Alexandre Dumas (⭐️4.3)
 - [Dire Straights (Boys of BBU #1)](https://www.goodreads.com/review/show/8253484316?utm_medium=api&utm_source=rss) by L.A.  Lambert (⭐️3.99)
 - [Take Me Apart (Vitale Brothers, #1)](https://www.goodreads.com/review/show/8118400536?utm_medium=api&utm_source=rss) by Brea Alepoú (⭐️3.94)
-- [Still Bruised: A MM Contemporary Romance](https://www.goodreads.com/review/show/8253503561?utm_medium=api&utm_source=rss) by Kelex (⭐️4.32)
+- [Still Bruised: A MM Contemporary Romance](https://www.goodreads.com/review/show/8253503561?utm_medium=api&utm_source=rss) by Kelex (⭐️4.29)
 
 
 
