@@ -73,11 +73,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.7 °C</td><td>19.9 °C</td><td>19.2 °C</td><td>18.6 °C</td><td>18.1 °C</td><td>17.7 °C</td><td>17.2 °C</td><td>19.1 °C</td><td>24.1 °C</td><td>27.8 °C</td><td>30.9 °C</td><td>33.2 °C</td><td>35 °C</td><td>36.4 °C</td><td>37 °C</td><td>36.8 °C</td><td>36.2 °C</td><td>33.2 °C</td><td>28.4 °C</td><td>26.9 °C</td><td>25.6 °C</td><td>24 °C</td><td>23 °C</td><td>22.4 °C</td>
+        <td>20.7 °C</td><td>19.9 °C</td><td>19.2 °C</td><td>18.5 °C</td><td>18 °C</td><td>17.6 °C</td><td>17.1 °C</td><td>19 °C</td><td>24 °C</td><td>27.7 °C</td><td>30.8 °C</td><td>33.1 °C</td><td>35 °C</td><td>36.4 °C</td><td>37 °C</td><td>36.8 °C</td><td>36.1 °C</td><td>33.1 °C</td><td>28.3 °C</td><td>26.8 °C</td><td>25.4 °C</td><td>23.8 °C</td><td>22.8 °C</td><td>22.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.5 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>11.9 kph</td><td>13 kph</td><td>13 kph</td><td>11.9 kph</td><td>9.7 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>5 kph</td><td>4.3 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>6.1 kph</td>
+        <td>6.5 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.8 kph</td><td>7.9 kph</td><td>7.9 kph</td><td>11.2 kph</td><td>12.6 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>8.6 kph</td><td>6.1 kph</td><td>5 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4 kph</td><td>5 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>6.5 kph</td>
     </tr>
 </table>
 
@@ -92,24 +92,24 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>17.2 -  37 °C</td><td>19.6 -  38.2 °C</td><td>22.5 -  39.8 °C</td>
+        <td>17.1 -  37 °C</td><td>19.5 -  38.4 °C</td><td>22.4 -  39.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13 kph</td><td>10.4 kph</td><td>10.8 kph</td>
+        <td>12.6 kph</td><td>10.8 kph</td><td>10.8 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2026-02-17T01:47:14Z*
+*Updated at: 2026-02-17T04:15:24Z*
 
 
 #
