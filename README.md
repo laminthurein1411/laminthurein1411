@@ -73,11 +73,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>21.1 °C</td><td>20.6 °C</td><td>20.2 °C</td><td>19.7 °C</td><td>19.1 °C</td><td>18.8 °C</td><td>18.5 °C</td><td>21.4 °C</td><td>25.1 °C</td><td>28.4 °C</td><td>31.2 °C</td><td>33.9 °C</td><td>35.3 °C</td><td>35.7 °C</td><td>35.9 °C</td><td>35.9 °C</td><td>35.6 °C</td><td>34.6 °C</td><td>29.9 °C</td><td>27.8 °C</td><td>26.4 °C</td><td>25.2 °C</td><td>24.3 °C</td><td>23.3 °C</td>
+        <td>21.1 °C</td><td>20.6 °C</td><td>20.1 °C</td><td>19.6 °C</td><td>19.2 °C</td><td>18.9 °C</td><td>18.7 °C</td><td>21.6 °C</td><td>24.9 °C</td><td>28.1 °C</td><td>30.9 °C</td><td>33.2 °C</td><td>35 °C</td><td>36.3 °C</td><td>36.8 °C</td><td>36.6 °C</td><td>36.1 °C</td><td>34.9 °C</td><td>30.2 °C</td><td>27.9 °C</td><td>26.5 °C</td><td>25.2 °C</td><td>24.1 °C</td><td>23.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>3.6 kph</td><td>0.7 kph</td><td>1.4 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>7.9 kph</td><td>6.8 kph</td><td>5 kph</td><td>1.4 kph</td><td>2.2 kph</td><td>5.4 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>2.2 kph</td><td>9 kph</td><td>11.2 kph</td><td>9 kph</td><td>10.1 kph</td><td>9 kph</td>
+        <td>2.2 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>1.8 kph</td><td>1.1 kph</td><td>4 kph</td><td>4.3 kph</td><td>7.2 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>6.8 kph</td><td>14.4 kph</td><td>13 kph</td><td>11.5 kph</td><td>10.1 kph</td><td>6.8 kph</td>
     </tr>
 </table>
 
@@ -100,16 +100,16 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>18.5 -  35.9 °C</td><td>20.2 -  36.8 °C</td><td>20.9 -  37.7 °C</td>
+        <td>18.7 -  36.8 °C</td><td>20 -  37.2 °C</td><td>20.9 -  38 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.2 kph</td><td>13.7 kph</td><td>18.4 kph</td>
+        <td>14.4 kph</td><td>13.7 kph</td><td>16.9 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2026-03-02T06:51:46Z*
+*Updated at: 2026-03-02T08:38:17Z*
 
 
 #
@@ -121,10 +121,10 @@ Sunny
 
 ### Books I've read 📚 
 
+- [Shiver (For Puck's Sake Alternate Discreet Covers)](https://www.goodreads.com/review/show/8357033515?utm_medium=api&utm_source=rss) by Crea Reitan (⭐️3.12)
 - [Intermezzo](https://www.goodreads.com/review/show/8327028919?utm_medium=api&utm_source=rss) by Sally Rooney (⭐️3.96)
 - [The Count of Monte Cristo](https://www.goodreads.com/review/show/8160240805?utm_medium=api&utm_source=rss) by Alexandre Dumas (⭐️4.3)
 - [Dire Straights (Boys of BBU #1)](https://www.goodreads.com/review/show/8253484316?utm_medium=api&utm_source=rss) by L.A.  Lambert (⭐️4)
-- [Take Me Apart (Vitale Brothers, #1)](https://www.goodreads.com/review/show/8118400536?utm_medium=api&utm_source=rss) by Brea Alepoú (⭐️3.94)
 
 
 
