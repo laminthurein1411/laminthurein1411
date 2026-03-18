@@ -65,19 +65,19 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/113.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.2 °C</td><td>24.7 °C</td><td>24.2 °C</td><td>23.6 °C</td><td>23.2 °C</td><td>22.7 °C</td><td>22.6 °C</td><td>25.5 °C</td><td>28.4 °C</td><td>31.2 °C</td><td>33.5 °C</td><td>35.4 °C</td><td>36.6 °C</td><td>37 °C</td><td>37.5 °C</td><td>37.6 °C</td><td>37.2 °C</td><td>36.2 °C</td><td>32.4 °C</td><td>30 °C</td><td>28.8 °C</td><td>27.6 °C</td><td>26.4 °C</td><td>25.2 °C</td>
+        <td>24.9 °C</td><td>24.2 °C</td><td>23.5 °C</td><td>22.9 °C</td><td>22.5 °C</td><td>22 °C</td><td>21.8 °C</td><td>25 °C</td><td>28.1 °C</td><td>31 °C</td><td>33.7 °C</td><td>35.6 °C</td><td>36.9 °C</td><td>37.6 °C</td><td>38.1 °C</td><td>38.2 °C</td><td>37.7 °C</td><td>36.7 °C</td><td>32.2 °C</td><td>29.9 °C</td><td>28.4 °C</td><td>26.9 °C</td><td>25.7 °C</td><td>24.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.2 kph</td><td>6.8 kph</td><td>4 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>3.2 kph</td><td>5.8 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>12.2 kph</td><td>15.1 kph</td><td>13.3 kph</td><td>12.6 kph</td><td>9.7 kph</td><td>4 kph</td>
+        <td>7.9 kph</td><td>7.2 kph</td><td>5 kph</td><td>5 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>5 kph</td><td>6.1 kph</td><td>7.9 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>7.6 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>7.9 kph</td><td>15.5 kph</td><td>14.4 kph</td><td>10.4 kph</td><td>7.9 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
@@ -100,16 +100,16 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>22.6 -  37.6 °C</td><td>22.3 -  38.8 °C</td><td>21.6 -  39.1 °C</td>
+        <td>21.8 -  38.2 °C</td><td>21.8 -  39.4 °C</td><td>21.8 -  39.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.1 kph</td><td>17.6 kph</td><td>18.7 kph</td>
+        <td>15.5 kph</td><td>18 kph</td><td>19.1 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2026-03-18T06:56:34Z*
+*Updated at: 2026-03-18T08:42:00Z*
 
 
 #
@@ -121,10 +121,10 @@ Sunny
 
 ### Books I've read 📚 
 
+- [Made to Order (Naughty in Pendleton, #3)](https://www.goodreads.com/review/show/8444535316?utm_medium=api&utm_source=rss) by Brigham Vaughn (⭐️4.17)
 - [Shiver (For Puck's Sake Alternate Discreet Covers)](https://www.goodreads.com/review/show/8357033515?utm_medium=api&utm_source=rss) by Crea Reitan (⭐️3.14)
 - [Intermezzo](https://www.goodreads.com/review/show/8327028919?utm_medium=api&utm_source=rss) by Sally Rooney (⭐️3.95)
 - [The Count of Monte Cristo](https://www.goodreads.com/review/show/8160240805?utm_medium=api&utm_source=rss) by Alexandre Dumas (⭐️4.3)
-- [Dire Straights (Boys of BBU #1)](https://www.goodreads.com/review/show/8253484316?utm_medium=api&utm_source=rss) by L.A.  Lambert (⭐️4)
 
 
 
