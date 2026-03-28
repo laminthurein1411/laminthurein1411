@@ -73,11 +73,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.4 °C</td><td>24.9 °C</td><td>24.2 °C</td><td>23.6 °C</td><td>23.3 °C</td><td>23.1 °C</td><td>23.6 °C</td><td>26.5 °C</td><td>29.6 °C</td><td>32.7 °C</td><td>35.1 °C</td><td>37.1 °C</td><td>38.7 °C</td><td>39.4 °C</td><td>37.6 °C</td><td>38.5 °C</td><td>38 °C</td><td>36.5 °C</td><td>34.5 °C</td><td>32.5 °C</td><td>30.2 °C</td><td>29 °C</td><td>28.5 °C</td><td>28.2 °C</td>
+        <td>25.2 °C</td><td>24.7 °C</td><td>24.2 °C</td><td>23.6 °C</td><td>23.3 °C</td><td>23.2 °C</td><td>23.6 °C</td><td>26.6 °C</td><td>29.6 °C</td><td>32.7 °C</td><td>35.3 °C</td><td>37.3 °C</td><td>39 °C</td><td>39.9 °C</td><td>39.5 °C</td><td>38.1 °C</td><td>37.1 °C</td><td>36.1 °C</td><td>33.8 °C</td><td>31.6 °C</td><td>29.6 °C</td><td>28.1 °C</td><td>27.3 °C</td><td>26.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>4.3 kph</td><td>2.9 kph</td><td>1.8 kph</td><td>2.5 kph</td><td>3.2 kph</td><td>4 kph</td><td>3.6 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>5 kph</td><td>5.8 kph</td><td>1.8 kph</td><td>5.4 kph</td><td>8.3 kph</td><td>10.4 kph</td><td>16.6 kph</td><td>15.8 kph</td><td>11.5 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>7.6 kph</td>
+        <td>3.6 kph</td><td>4.3 kph</td><td>6.1 kph</td><td>5 kph</td><td>3.6 kph</td><td>1.4 kph</td><td>2.5 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>5 kph</td><td>5.8 kph</td><td>4.7 kph</td><td>6.1 kph</td><td>5 kph</td><td>7.6 kph</td><td>5 kph</td><td>14.8 kph</td><td>19.4 kph</td><td>15.5 kph</td><td>11.5 kph</td><td>8.6 kph</td><td>6.8 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
@@ -100,16 +100,16 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.1 -  39.4 °C</td><td>23.6 -  41.4 °C</td><td>23.5 -  41.2 °C</td>
+        <td>23.2 -  39.9 °C</td><td>23.5 -  41.2 °C</td><td>23.7 -  41.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>16.6 kph</td><td>25.9 kph</td><td>20.9 kph</td>
+        <td>19.4 kph</td><td>24.8 kph</td><td>20.9 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2026-03-28T20:24:21Z*
+*Updated at: 2026-03-28T22:24:08Z*
 
 
 #
