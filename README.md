@@ -73,11 +73,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>28.1 °C</td><td>27.6 °C</td><td>26.9 °C</td><td>26.3 °C</td><td>25.8 °C</td><td>25.3 °C</td><td>25.9 °C</td><td>28.3 °C</td><td>31.1 °C</td><td>33.7 °C</td><td>36.2 °C</td><td>38.2 °C</td><td>39.9 °C</td><td>40.6 °C</td><td>40.9 °C</td><td>41.1 °C</td><td>40.5 °C</td><td>38 °C</td><td>34.9 °C</td><td>32.5 °C</td><td>30.8 °C</td><td>29.3 °C</td><td>28.3 °C</td><td>27.7 °C</td>
+        <td>27.8 °C</td><td>27.1 °C</td><td>26.4 °C</td><td>25.7 °C</td><td>25.1 °C</td><td>24.7 °C</td><td>25.3 °C</td><td>27.6 °C</td><td>30.3 °C</td><td>33.1 °C</td><td>35.6 °C</td><td>37.9 °C</td><td>39.6 °C</td><td>40.6 °C</td><td>41.1 °C</td><td>41.4 °C</td><td>40.1 °C</td><td>37.3 °C</td><td>34.3 °C</td><td>31.8 °C</td><td>30.4 °C</td><td>29.2 °C</td><td>28.5 °C</td><td>28 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>9 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>7.6 kph</td><td>4 kph</td><td>4.3 kph</td><td>5.8 kph</td><td>2.2 kph</td><td>7.6 kph</td><td>23 kph</td><td>20.2 kph</td><td>17.3 kph</td><td>14.4 kph</td><td>13.3 kph</td><td>11.5 kph</td><td>7.2 kph</td>
+        <td>8.6 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>9.4 kph</td><td>11.2 kph</td><td>11.5 kph</td><td>10.4 kph</td><td>7.2 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>1.4 kph</td><td>6.8 kph</td><td>18.4 kph</td><td>24.8 kph</td><td>22.3 kph</td><td>18.7 kph</td><td>14.8 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>10.4 kph</td>
     </tr>
 </table>
 
@@ -100,16 +100,16 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.3 -  41.1 °C</td><td>24.9 -  40.9 °C</td><td>26.5 -  41.6 °C</td>
+        <td>24.7 -  41.4 °C</td><td>25.4 -  41.5 °C</td><td>26.6 -  41.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>23 kph</td><td>19.8 kph</td><td>24.1 kph</td>
+        <td>24.8 kph</td><td>19.4 kph</td><td>23 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2026-04-15T07:48:17Z*
+*Updated at: 2026-04-15T09:13:39Z*
 
 
 #
@@ -121,10 +121,10 @@ Sunny
 
 ### Books I've read 📚 
 
-- [Made to Order (Naughty in Pendleton, #3)](https://www.goodreads.com/review/show/8444535316?utm_medium=api&utm_source=rss) by Brigham Vaughn (⭐️4.17)
-- [Shiver (For Puck&apos;s Sake)](https://www.goodreads.com/review/show/8357033515?utm_medium=api&utm_source=rss) by Crea Reitan (⭐️3.11)
-- [Intermezzo](https://www.goodreads.com/review/show/8327028919?utm_medium=api&utm_source=rss) by Sally Rooney (⭐️3.95)
-- [The Count of Monte Cristo](https://www.goodreads.com/review/show/8160240805?utm_medium=api&utm_source=rss) by Alexandre Dumas (⭐️4.3)
+- [People We Meet on Vacation](https://www.goodreads.com/review/show/8523839628?utm_medium=api&utm_source=rss) by Emily Henry (⭐️3.84)
+- [Made to Order (Naughty in Pendleton, #3)](https://www.goodreads.com/review/show/8444535316?utm_medium=api&utm_source=rss) by Brigham Vaughn (⭐️4.16)
+- [Hot Axe (Axford Brothers, #2)](https://www.goodreads.com/review/show/8523850460?utm_medium=api&utm_source=rss) by May Archer (⭐️4.33)
+- [Shiver (For Puck&apos;s Sake)](https://www.goodreads.com/review/show/8357033515?utm_medium=api&utm_source=rss) by Crea Reitan (⭐️3.16)
 
 
 
