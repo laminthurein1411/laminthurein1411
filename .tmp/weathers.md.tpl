@@ -2,7 +2,7 @@
 <div align="center">
 
 
-`Pyay, Myanmar - 16/04/2026`
+`Pyay, Myanmar - 17/04/2026`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
@@ -26,11 +26,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.3 °C</td><td>26.9 °C</td><td>26.5 °C</td><td>26 °C</td><td>25.5 °C</td><td>25.1 °C</td><td>25.7 °C</td><td>28 °C</td><td>30.4 °C</td><td>33 °C</td><td>35.7 °C</td><td>37.9 °C</td><td>39.4 °C</td><td>40.3 °C</td><td>41 °C</td><td>39.5 °C</td><td>39.2 °C</td><td>38.3 °C</td><td>35.9 °C</td><td>33.9 °C</td><td>32.5 °C</td><td>31.3 °C</td><td>30.1 °C</td><td>29.2 °C</td>
+        <td>28.5 °C</td><td>27.9 °C</td><td>27.5 °C</td><td>27.1 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>27.4 °C</td><td>29.7 °C</td><td>32.1 °C</td><td>34.7 °C</td><td>37 °C</td><td>39.1 °C</td><td>40.7 °C</td><td>41.6 °C</td><td>42.1 °C</td><td>40.6 °C</td><td>36 °C</td><td>35.7 °C</td><td>34.5 °C</td><td>33.2 °C</td><td>32.3 °C</td><td>31.4 °C</td><td>30.5 °C</td><td>29.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.2 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>1.1 kph</td><td>9.7 kph</td><td>5.4 kph</td><td>2.2 kph</td><td>7.9 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>8.6 kph</td>
+        <td>7.9 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>5.4 kph</td><td>6.8 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>10.4 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>15.5 kph</td><td>23.8 kph</td><td>22 kph</td><td>15.1 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>8.3 kph</td><td>10.4 kph</td><td>11.5 kph</td>
     </tr>
 </table>
 
@@ -41,7 +41,7 @@ Sunny
 <table>
     <tr>
         <th>Date</th>
-        <td>16/04/2026</td><td>17/04/2026</td><td>18/04/2026</td>
+        <td>17/04/2026</td><td>18/04/2026</td><td>19/04/2026</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -53,13 +53,13 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.1 -  41 °C</td><td>26.5 -  42.1 °C</td><td>26.8 -  42.4 °C</td>
+        <td>26.5 -  42.1 °C</td><td>26.8 -  42.4 °C</td><td>24.8 -  41.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>12.2 kph</td><td>23.8 kph</td><td>25.2 kph</td>
+        <td>23.8 kph</td><td>25.2 kph</td><td>21.2 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2026-04-16T17:09:40Z*
+*Updated at: 2026-04-16T19:05:33Z*
