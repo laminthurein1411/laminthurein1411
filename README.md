@@ -109,7 +109,7 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2026-05-22T07:39:43Z*
+*Updated at: 2026-05-22T10:45:39Z*
 
 
 #
@@ -121,10 +121,10 @@ Patchy rain nearby
 
 ### Books I've read 📚 
 
+- [Work: Strictly Professional (Bad Decisions #2)](https://www.goodreads.com/review/show/8621573077?utm_medium=api&utm_source=rss) by Jesse H. Reign (⭐️4.07)
+- [Scoring the Keeper (Arctic Titans of Northwood U, #2)](https://www.goodreads.com/review/show/8621557299?utm_medium=api&utm_source=rss) by Hayden Hall (⭐️3.91)
 - [Fruit Fly](https://www.goodreads.com/review/show/8603129321?utm_medium=api&utm_source=rss) by Josh  Silver (⭐️4.5)
 - [Make the Play (Kings of Heart, #2)](https://www.goodreads.com/review/show/8352120144?utm_medium=api&utm_source=rss) by Lucky Hart (⭐️4.3)
-- [Book Lovers](https://www.goodreads.com/review/show/8524180505?utm_medium=api&utm_source=rss) by Emily Henry (⭐️4.07)
-- [Off Balance (Painted Bay, #1)](https://www.goodreads.com/review/show/7463635677?utm_medium=api&utm_source=rss) by Jay Hogan (⭐️4.23)
 
 
 
