@@ -100,7 +100,7 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.3 -  31.7 °C</td><td>26 -  32.3 °C</td><td>24.9 -  32.6 °C</td>
+        <td>25.3 -  31.7 °C</td><td>26 -  32.3 °C</td><td>24.7 -  32.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -109,7 +109,7 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2026-06-29T08:54:05Z*
+*Updated at: 2026-06-29T14:00:20Z*
 
 
 #
@@ -122,7 +122,7 @@ Partly Cloudy
 ### Books I've read 📚 
 
 - [The Sluts](https://www.goodreads.com/review/show/8283799739?utm_medium=api&utm_source=rss) by Dennis Cooper (⭐️3.78)
-- [The Open Era](https://www.goodreads.com/review/show/8712311125?utm_medium=api&utm_source=rss) by Edward Schmit (⭐️3.91)
+- [The Open Era](https://www.goodreads.com/review/show/8712311125?utm_medium=api&utm_source=rss) by Edward Schmit (⭐️3.9)
 - [Endless Stretch of Blue](https://www.goodreads.com/review/show/8701412295?utm_medium=api&utm_source=rss) by Riley Hart (⭐️4.29)
 - [Next Season (The Elmwood Stories, #2)](https://www.goodreads.com/review/show/8700948685?utm_medium=api&utm_source=rss) by Lane Hayes (⭐️4.21)
 

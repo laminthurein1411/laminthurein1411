@@ -53,7 +53,7 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.3 -  31.7 °C</td><td>26 -  32.3 °C</td><td>24.9 -  32.6 °C</td>
+        <td>25.3 -  31.7 °C</td><td>26 -  32.3 °C</td><td>24.7 -  32.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -62,4 +62,4 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2026-06-29T08:54:05Z*
+*Updated at: 2026-06-29T14:00:20Z*
