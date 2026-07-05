@@ -57,9 +57,9 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Wind</th>
-        <td>17.3 kph</td><td>10.4 kph</td><td>14.4 kph</td>
+        <td>17.3 kph</td><td>10.4 kph</td><td>13 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2026-07-04T22:53:39Z*
+*Updated at: 2026-07-05T02:37:42Z*
