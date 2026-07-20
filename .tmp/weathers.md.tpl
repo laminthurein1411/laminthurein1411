@@ -45,11 +45,11 @@ Light rain shower
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Light rain shower</td><td width="200px">Light rain</td><td width="200px">Fog</td>
+        <td width="200px">Light rain shower</td><td width="200px">Light rain</td><td width="200px">Partly Cloudy</td>
     </tr>
     <tr>
         <th>Temperature</th>
@@ -62,4 +62,4 @@ Light rain shower
 </table>
 
 
-*Updated at: 2026-07-20T13:55:00Z*
+*Updated at: 2026-07-20T15:46:31Z*
