@@ -51,9 +51,9 @@
 
 `Pyay, Myanmar - 14/08/2026`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"/>
 
-Fog
+Mist
 
 </div>
 
@@ -65,19 +65,19 @@ Fog
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/296.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/248.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/353.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/night/143.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain</td><td width="200px">Light rain shower</td><td width="200px">Moderate rain</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy</td><td width="200px">Cloudy</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Fog</td>
+        <td width="200px">Mist</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Overcast</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Light rain shower</td><td width="200px">Partly Cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Cloudy</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.3 °C</td><td>23.2 °C</td><td>23.2 °C</td><td>23.3 °C</td><td>23.3 °C</td><td>23.1 °C</td><td>23.8 °C</td><td>24.9 °C</td><td>26.3 °C</td><td>27.8 °C</td><td>28.9 °C</td><td>29.3 °C</td><td>29.6 °C</td><td>29.8 °C</td><td>29.3 °C</td><td>27.7 °C</td><td>27 °C</td><td>25.9 °C</td><td>24.9 °C</td><td>24.6 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.2 °C</td><td>24.1 °C</td>
+        <td>23.8 °C</td><td>23.8 °C</td><td>23.7 °C</td><td>23.7 °C</td><td>23.7 °C</td><td>23.8 °C</td><td>23.8 °C</td><td>24.2 °C</td><td>25.1 °C</td><td>25.8 °C</td><td>26.3 °C</td><td>26.8 °C</td><td>26.9 °C</td><td>26.9 °C</td><td>27.5 °C</td><td>27 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.9 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>11.5 kph</td><td>12.6 kph</td><td>13 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>11.2 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>9.4 kph</td><td>8.3 kph</td><td>6.5 kph</td><td>7.9 kph</td><td>9 kph</td><td>9.7 kph</td><td>11.9 kph</td>
+        <td>9.4 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>9 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>10.8 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9 kph</td><td>8.6 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>10.8 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
@@ -92,24 +92,24 @@ Fog
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/248.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/143.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Fog</td><td width="200px">Fog</td><td width="200px">Partly Cloudy</td>
+        <td width="200px">Mist</td><td width="200px">Mist</td><td width="200px">Mist</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.1 -  29.8 °C</td><td>23.7 -  27.6 °C</td><td>23.8 -  29.4 °C</td>
+        <td>23.7 -  27.5 °C</td><td>23.7 -  27.3 °C</td><td>23.4 -  28.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13 kph</td><td>11.9 kph</td><td>14 kph</td>
+        <td>12.2 kph</td><td>12.2 kph</td><td>9 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2026-08-14T07:16:27Z*
+*Updated at: 2026-08-14T09:02:28Z*
 
 
 #
@@ -121,10 +121,10 @@ Fog
 
 ### Books I've read 📚 
 
+- [Flowers for Algernon](https://www.goodreads.com/review/show/8827070050?utm_medium=api&utm_source=rss) by Daniel Keyes (⭐️4.21)
+- [A Trade of Blood (Ana and Din Mysteries, #3)](https://www.goodreads.com/review/show/8858372441?utm_medium=api&utm_source=rss) by Robert Jackson Bennett (⭐️4.63)
 - [Face Offs & Cheap Shots (CU Hockey, #2)](https://www.goodreads.com/review/show/8855310229?utm_medium=api&utm_source=rss) by Eden Finley (⭐️4.16)
 - [A Drop of Corruption (Ana and Din Mysteries, #2)](https://www.goodreads.com/review/show/8847472533?utm_medium=api&utm_source=rss) by Robert Jackson Bennett (⭐️4.44)
-- [The Tainted Cup (Ana and Din Mysteries, #1)](https://www.goodreads.com/review/show/8774484007?utm_medium=api&utm_source=rss) by Robert Jackson Bennett (⭐️4.27)
-- [Boyfriend Material](https://www.goodreads.com/review/show/8829491357?utm_medium=api&utm_source=rss) by Alexis  Hall (⭐️4.15)
 
 
 
