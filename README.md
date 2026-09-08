@@ -73,11 +73,11 @@ Overcast
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.8 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>24.1 °C</td><td>24.4 °C</td><td>25.3 °C</td><td>26.9 °C</td><td>28.4 °C</td><td>29.6 °C</td><td>30.8 °C</td><td>31.4 °C</td><td>31.6 °C</td><td>30.7 °C</td><td>30 °C</td><td>29.5 °C</td><td>28.5 °C</td><td>27 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.5 °C</td><td>25.1 °C</td><td>24.7 °C</td>
+        <td>24.8 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.1 °C</td><td>24 °C</td><td>23.9 °C</td><td>24.3 °C</td><td>25.3 °C</td><td>26.7 °C</td><td>28.2 °C</td><td>29.6 °C</td><td>30.8 °C</td><td>31.4 °C</td><td>31.6 °C</td><td>30.7 °C</td><td>30 °C</td><td>29.5 °C</td><td>28.5 °C</td><td>27 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.5 °C</td><td>25.1 °C</td><td>24.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>7.6 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>9 kph</td><td>8.3 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>4.7 kph</td>
+        <td>6.1 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>9 kph</td><td>9 kph</td><td>10.1 kph</td><td>10.4 kph</td><td>9.4 kph</td><td>10.1 kph</td><td>11.9 kph</td><td>12.6 kph</td><td>10.8 kph</td><td>9.7 kph</td><td>10.8 kph</td><td>9 kph</td><td>8.3 kph</td><td>6.5 kph</td><td>5.4 kph</td><td>4.7 kph</td>
     </tr>
 </table>
 
@@ -100,7 +100,7 @@ Overcast
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.1 -  31.6 °C</td><td>23.7 -  29.7 °C</td><td>23.6 -  29.5 °C</td>
+        <td>23.9 -  31.6 °C</td><td>23.7 -  29.7 °C</td><td>23.6 -  29.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -109,7 +109,7 @@ Overcast
 </table>
 
 
-*Updated at: 2026-09-07T22:27:40Z*
+*Updated at: 2026-09-08T02:43:54Z*
 
 
 #
