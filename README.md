@@ -77,7 +77,7 @@ Light rain shower
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.1 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>12.6 kph</td><td>11.2 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>0.7 kph</td><td>1.8 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>2.2 kph</td><td>3.6 kph</td>
+        <td>10.1 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>12.6 kph</td><td>11.2 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>0.7 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>1.4 kph</td><td>2.2 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
@@ -109,7 +109,7 @@ Light rain shower
 </table>
 
 
-*Updated at: 2026-09-30T07:50:55Z*
+*Updated at: 2026-09-30T14:31:30Z*
 
 
 #
@@ -124,7 +124,7 @@ Light rain shower
 - [P.S. I Spook You (The Spectral Files, #1)](https://www.goodreads.com/review/show/8180435570?utm_medium=api&utm_source=rss) by S.E. Harmon (⭐️4.12)
 - [The Fellowship of the Ring (The Lord of the Rings, #1)](https://www.goodreads.com/review/show/8959786577?utm_medium=api&utm_source=rss) by J.R.R. Tolkien (⭐️4.53)
 - [The Hobbit: Illustrated by the Author (Tolkien Illustrated Editions)](https://www.goodreads.com/review/show/8955044518?utm_medium=api&utm_source=rss) by J.R.R. Tolkien (⭐️4.65)
-- [To Clutch a Razor (Curse Bearer, #2)](https://www.goodreads.com/review/show/8939105243?utm_medium=api&utm_source=rss) by Veronica Roth (⭐️4.19)
+- [To Clutch a Razor (Curse Bearer, #2)](https://www.goodreads.com/review/show/8939105243?utm_medium=api&utm_source=rss) by Veronica Roth (⭐️4.18)
 
 
 

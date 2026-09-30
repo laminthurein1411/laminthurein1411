@@ -30,7 +30,7 @@ Light rain shower
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.1 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>12.6 kph</td><td>11.2 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>0.7 kph</td><td>1.8 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>2.2 kph</td><td>3.6 kph</td>
+        <td>10.1 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>12.6 kph</td><td>11.2 kph</td><td>8.6 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>0.7 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>1.4 kph</td><td>2.2 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
@@ -62,4 +62,4 @@ Light rain shower
 </table>
 
 
-*Updated at: 2026-09-30T07:50:55Z*
+*Updated at: 2026-09-30T14:31:30Z*
