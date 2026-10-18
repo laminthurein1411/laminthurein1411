@@ -77,7 +77,7 @@ Mist
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5 kph</td><td>4 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>6.1 kph</td><td>5 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>4 kph</td><td>1.8 kph</td><td>1.4 kph</td><td>3.6 kph</td><td>4 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>6.8 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>6.8 kph</td>
+        <td>5 kph</td><td>4 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.7 kph</td><td>4.3 kph</td><td>6.1 kph</td><td>5 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>4 kph</td><td>1.8 kph</td><td>1.4 kph</td><td>3.2 kph</td><td>4 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>6.8 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>6.8 kph</td>
     </tr>
 </table>
 
@@ -109,7 +109,7 @@ Mist
 </table>
 
 
-*Updated at: 2026-10-18T08:29:25Z*
+*Updated at: 2026-10-18T13:43:43Z*
 
 
 #
